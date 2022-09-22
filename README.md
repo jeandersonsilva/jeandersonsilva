@@ -1,9 +1,9 @@
 ### Olá, eu sou o Jeanderson, sou estudante e ávido por mais conhecimento.
 
-- 🛵 Atualmente eu trabalho como entregador em uma rede de comida japonesa
-- 🌱 Estou estudando para ser um programador front-end
-- 🖥️ As tecnologias que estou estudando são HTML, CSS e JS
-- ⌛ Eu espero, no futuro, realização profissional e pessoal trabalhando com o que estou estudando.
+- 🛵 Atualmente eu trabalho como entregador em uma rede de comida japonesa;
+- 🌱 Estou estudando para ser um programador front-end;
+- 🖥️ As tecnologias que estou estudando são HTML, CSS e JS;
+- ⌛ Eu espero, no futuro, realização profissional e pessoal trabalhando com o que estou estudando;
 - ⚡ Fun fact: eu faço tudo ouvindo música, logo, adoro fones de ouvido.
 ##
 
